@@ -59,7 +59,7 @@ define('SECOND',33);
 echo FIRST+SECOND;
 echo '<br>';
 echo '<br>';
-FIRST = SECOND;
+
 
 
 
